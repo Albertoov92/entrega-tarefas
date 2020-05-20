@@ -31,3 +31,4 @@
 ![funcionando](img/basededatos2/5.PNG)
 ![funcionando](img/basededatos2/6.PNG)
 ![funcionando](img/basededatos2/7.PNG)
+PD: en algunas capturas da creacion das taboas non creei algun atributo, pero estan creados posterirormente para o correcto funcionamento da base de datos.
