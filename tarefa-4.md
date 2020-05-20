@@ -1,5 +1,4 @@
 # Tarefa 4
-
-Exemplo de como linkar unha imaxe que se atopa no cartafol `img`:
-
-![Imaxe de exemplo](./img/imaxe-exemplo.png)
+# SHOW
+![funcionando](img/show/1.PNG)
+![funcionando](img/show/2.PNG)
